@@ -131,10 +131,11 @@ DA Project.pbix
 
 ## 📷 Dashboard Preview
 
-> Add screenshots of your dashboard here.
+> Added screenshot of **Central Area** 
 ![image alt](https://github.com/Mohammed-Ayaan-Ali/SuperStore-Analytics/blob/main/Central%20area.png?raw=true)
-```
 
+> Added screenshot of **East Area**
+![image alt](https://github.com/Mohammed-Ayaan-Ali/SuperStore-Analytics/blob/main/East%20area.png?raw=true)
 ---
 
 ## 📌 Insights

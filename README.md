@@ -132,13 +132,7 @@ DA Project.pbix
 ## 📷 Dashboard Preview
 
 > Add screenshots of your dashboard here.
-
-Example:
-
-```
-images/dashboard-overview.png
-images/sales-analysis.png
-images/profit-analysis.png
+![image alt](https://github.com/Mohammed-Ayaan-Ali/SuperStore-Analytics/blob/main/Central%20area.png?raw=true)
 ```
 
 ---

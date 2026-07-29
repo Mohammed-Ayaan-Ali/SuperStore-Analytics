@@ -134,11 +134,18 @@ DA Project.pbix
 > Added screenshot of **Central Area** 
 ![image alt](https://github.com/Mohammed-Ayaan-Ali/SuperStore-Analytics/blob/main/Central%20area.png?raw=true)
 
+
 > Added screenshot of **East Area**
 ![image alt](https://github.com/Mohammed-Ayaan-Ali/SuperStore-Analytics/blob/main/East%20area.png?raw=true)
 
+
 > Added screenshot of **South Area**
-![image alt](https://github.com/Mohammed-Ayaan-Ali/SuperStore-Analytics/blob/main/South%20area.png?raw=true) 
+![image alt](https://github.com/Mohammed-Ayaan-Ali/SuperStore-Analytics/blob/main/South%20area.png?raw=true)
+
+
+> Added screenshot of **West Area**
+![image alt](https://github.com/Mohammed-Ayaan-Ali/SuperStore-Analytics/blob/main/West%20area.png?raw=true) 
+
 
 ## 📌 Insights
 

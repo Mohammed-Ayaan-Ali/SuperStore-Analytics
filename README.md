@@ -3,7 +3,7 @@
 
 A comprehensive **Power BI Dashboard** built using the Super Store Sales dataset to analyze sales performance, customer behavior, profitability, and regional trends. This project demonstrates data visualization, business intelligence, and interactive reporting techniques.
 
-![image alt](https://github.com/Mohammed-Ayaan-Ali/SuperStore Analytics/blob/d425d15b431d69d88d33dfc1f3c34aa250926e32/main%20Dashbaord%20screenshot.png)
+![image alt](https://github.com/Mohammed-Ayaan-Ali/SuperStore-Analytics/blob/main/main%20Dashbaord%20screenshot.png?raw=true))
 ---
 
 ## 📌 Project Overview
